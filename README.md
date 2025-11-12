@@ -42,7 +42,7 @@ You must have **Node.js (v18+)** and **Git** installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/eliyahukoren/playwright-ts-practice.git
     cd [YOUR_REPOSITORY_NAME]
     ```
 
