@@ -74,3 +74,9 @@ A detailed **HTML report** is automatically generated after every test run.
 
 ```bash
 npx playwright show-report
+```
+
+### Other
+
+[Plupload test practice](https://www.plupload.com/examples/runtimes)
+
